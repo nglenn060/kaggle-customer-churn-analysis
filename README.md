@@ -35,12 +35,13 @@ The project demonstrates an end-to-end data science workflow including data inge
 
 ```text
 kaggle-customer-churn-analysis/
-ÃÄÄ data/
-³   ÀÄÄ customer_churn.csv
-ÃÄÄ images/
-³   ÃÄÄ churn_distribution.png
-³   ÀÄÄ feature_importance.png
-ÃÄÄ churn_analysis.py
-ÃÄÄ requirements.txt
-ÃÄÄ README.md
-ÀÄÄ .gitignore
+â”œâ”€â”€ data/
+â”‚   â””â”€â”€ customer_churn.csv
+â”œâ”€â”€ images/
+â”‚   â”œâ”€â”€ churn_distribution.png
+â”‚   â””â”€â”€ feature_importance.png
+â”œâ”€â”€ churn_analysis.py
+â”œâ”€â”€ customer_churn_analysis.ipynb
+â”œâ”€â”€ requirements.txt
+â”œâ”€â”€ README.md
+â””â”€â”€ .gitignore
